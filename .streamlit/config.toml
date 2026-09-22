@@ -1,0 +1,11 @@
+# Streamlit theme for ASTROFILTER-X - dark mission-console palette.
+# This file must stay at: <project folder>/.streamlit/config.toml
+# It colors Streamlit's native widgets (sliders, progress bars) to
+# match the custom HTML panels styled inside astrofilter_x_dashboard.py
+
+[theme]
+base = "dark"
+primaryColor = "#39D97A"
+backgroundColor = "#0A0D12"
+secondaryBackgroundColor = "#121820"
+textColor = "#DCE6E0"
